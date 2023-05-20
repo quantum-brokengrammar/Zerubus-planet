@@ -16,11 +16,11 @@
      "type": "ShootAlternate",
      "spread": 0,
      "barrels": 5,
-     "shots": 5,
+     "shots": 5
          },
     "drawer": {
     "type": "drawTurret",
-    "basePrefix": "none",
+    "basePrefix": "none"
     },
     "shootWarmupSpeed": 0.08,
 	"rotateSpeed": 1,
@@ -109,10 +109,10 @@
            
 	"requirements": [
         "silver/30",
-        "indium/20",
+        "indium/20"
       
 	],
 	"category": "turret",
 	"research": "Scale"
 
-    },
+    }
